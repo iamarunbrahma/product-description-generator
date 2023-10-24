@@ -21,4 +21,4 @@ Now, run the app from the terminal:<br>
 gradio app.py
 ```
 
-_If you like this project, please star this repository_ :blush:
+_If you like this project, please ⭐ this repository_ :blush:
